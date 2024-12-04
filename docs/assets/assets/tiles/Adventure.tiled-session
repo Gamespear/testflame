@@ -1,0 +1,62 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level_1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Adventure.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Adventure_decoration.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Level_1.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 630,
+                "y": 417.33333333333337
+            }
+        },
+        "Level_2.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.7295703124999999,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 640.102800235584,
+                "y": 399.55024896932065
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/shuny/source/repos/testflame/assets/images/14-TileSets",
+    "map.height": 25,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 40,
+    "openFiles": [
+        "Adventure.tsx",
+        "Adventure_decoration.tsx",
+        "Level_1.tmx",
+        "Level_2.tmx"
+    ],
+    "project": "Adventure.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "Adventure.tsx",
+        "Adventure_decoration.tsx",
+        "Level_2.tmx",
+        "Level_1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
