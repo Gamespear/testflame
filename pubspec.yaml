@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   flame: ^1.21.0
   flame_tiled: ^1.21.0
+  flame_audio: ^2.10.5
 
 dev_dependencies:
   flutter_test:
@@ -61,7 +62,19 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
+  assets:
+    - assets/audio/
+    - assets/tiles/
+    - assets/images/14-TileSets/
+    - assets/images/12-Live and Coins/
+    - assets/images/11-Door/
+    - assets/images/Traps/Saw/
+    - assets/images/Main Characters/
+    - assets/images/Main Characters/Mask Dude/
+    - assets/images/Main Characters/Ninja Frog/
+    - assets/images/Main Characters/Pink Man/
+    - assets/images/Main Characters/Virtual Guy/
+
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 

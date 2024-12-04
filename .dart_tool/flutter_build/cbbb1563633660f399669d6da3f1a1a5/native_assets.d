@@ -1,0 +1,1 @@
+ C:\\Users\\shuny\\source\\repos\\testflame\\.dart_tool\\flutter_build\\cbbb1563633660f399669d6da3f1a1a5\\native_assets.yaml: 
