@@ -304,22 +304,6 @@ class Player extends SpriteAnimationGroupComponent with HasGameRef<Adventure>, K
   // When you are hit by a trap 
   void _respawn(){
     if(game.playSounds) FlameAudio.play('hit.wav', volume: game.soundVolume);
-    // const hitDuration = Duration(milliseconds: 350);
-    // const appearingDuration = Duration(milliseconds: 350);
-    // const canMoveDuration = Duration(milliseconds: 400);
-    // gotHit = true;
-    // current = PlayerState.hit;
-    // Future.delayed(hitDuration,(){
-    //   scale.x = 1;
-    //   position = startingPosition - Vector2.all(32);
-    //   current = PlayerState.appearing;
-    //   Future.delayed(appearingDuration,(){
-    //     velocity = Vector2.zero();
-    //     position = startingPosition;
-    //     _updatePlayerState();
-    //     Future.delayed(canMoveDuration, () => gotHit = false);
-    //   });
-    // });
     if (lives <= 0) {
       dead = true;
     } else{
