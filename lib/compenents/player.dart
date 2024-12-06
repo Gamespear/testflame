@@ -193,6 +193,7 @@ class Player extends SpriteAnimationGroupComponent with HasGameRef<Adventure>, K
         stepTime: stepTime, 
         textureSize: Vector2.all(96),
         ),
+        
       );
   }
 
